@@ -18,3 +18,4 @@ xiaoyaliu/alist
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
+donknap/dpanel:latest
