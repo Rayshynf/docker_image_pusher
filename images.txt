@@ -1,3 +1,6 @@
+/*
+注释内为已下载镜像
+
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -8,3 +11,9 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
+
+*/
+
+
+#本次下载镜像如下
+ donknap/dpanel:latest
