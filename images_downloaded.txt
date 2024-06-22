@@ -21,3 +21,4 @@ allanpk716/chinesesubfinder
 donknap/dpanel:latest
 0nlylty/dockercopilot:ZSPACE
 bestoray/pgyvpn
+revenz/fenrus:latest
