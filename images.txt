@@ -1,1 +1,1 @@
-revenz/fenrus:latest
+linkease/ddnsto
