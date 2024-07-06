@@ -22,3 +22,5 @@ donknap/dpanel:latest
 0nlylty/dockercopilot:ZSPACE
 bestoray/pgyvpn
 revenz/fenrus:latest
+linkease/ddnsto
+halohub/halo:2.10
