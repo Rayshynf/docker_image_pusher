@@ -24,3 +24,4 @@ bestoray/pgyvpn
 revenz/fenrus:latest
 linkease/ddnsto
 halohub/halo:2.10
+hslr/sun-panel:latest
