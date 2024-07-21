@@ -26,4 +26,4 @@ linkease/ddnsto
 halohub/halo:2.10
 hslr/sun-panel:latest
 louislam/dockge:1
-
+postgres:16-alpine
