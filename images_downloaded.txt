@@ -29,3 +29,4 @@ louislam/dockge:1
 postgres:16-alpine
 wiznote/wizserver
 rayshynf/witnote:unlock
+rayshynf/witnote:unlocked
