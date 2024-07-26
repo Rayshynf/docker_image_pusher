@@ -1,1 +1,1 @@
-laoyutang/wiznote-mod:1.0.31
+bitmagnet-io/bitmagnet:latest
