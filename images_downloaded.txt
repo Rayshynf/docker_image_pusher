@@ -31,4 +31,4 @@ wiznote/wizserver
 rayshynf/witnote:unlock
 rayshynf/witnote:unlocked
 laoyutang/wiznote-mod:1.0.31
-bitmagnet-io/bitmagnet:latest
+linuxserver/prowlarr
