@@ -1,1 +1,1 @@
- linuxserver/prowlarr
+budtmo/docker-android
