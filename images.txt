@@ -1,2 +1,1 @@
-hslr/sun-panel:latest
-halo/halo:2.20
+registry.cn-hangzhou.aliyuncs.com/rayshynf-image/sun-panel:latest
