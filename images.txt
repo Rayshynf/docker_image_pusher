@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/rayshynf-image/sun-panel:latest
+hslr/sun-panel:latest
