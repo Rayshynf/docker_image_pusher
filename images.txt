@@ -1,1 +1,2 @@
-budtmo/docker-android:emulator_11.0
+hslr/sun-panel:latest
+halo/halo:2.20
